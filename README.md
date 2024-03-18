@@ -6,7 +6,7 @@
 <img align="right" alt="Code" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
 - 🌱 I’m currently learning **C, Java, C#**
 
-- 💬 Ask me about **C#**
+- 💬 Ask me about **Java**
 
 - 📫 How to reach me **surya2019npd@outlook.com**
 
