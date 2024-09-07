@@ -16,7 +16,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/strangeneria55" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="strangeneria55" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/suryanarayan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suryanarayan" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/surya-narayan-405ba9212" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="suryanarayan" height="30" width="40" /></a>
 <a href="https://instagram.com/__strangeneria" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__strangeneria" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/quantum-berry" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="__suryanarayan" height="30" width="40" /></a>
 </p>
